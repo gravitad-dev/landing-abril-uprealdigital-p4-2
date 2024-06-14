@@ -1,0 +1,231 @@
+{
+  "logo": {
+    "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715125333/udckoqmzwtjnd4kdrn5w.svg",
+    "title": "logo",
+    "alt": "logo"
+  },
+  "section-nav": {
+    "menuLinks": [
+      {
+        "id": 0,
+        "href": "#home",
+        "title": "Home",
+        "isExternal": false
+      },
+      {
+        "id": 1,
+        "href": "#about-us",
+        "title": "About us",
+        "isExternal": false
+      },
+      {
+        "id": 2,
+        "href": "#projects",
+        "title": "Projects",
+        "isExternal": false
+      },
+      {
+        "id": 3,
+        "href": "#find-us",
+        "title": "Find Us",
+        "isExternal": false
+      },
+      {
+        "id": 4,
+        "href": "#testimonials",
+        "title": "Testimonials",
+        "isExternal": false
+      },
+      {
+        "id": 5,
+        "href": "blogexample",
+        "title": "Blog",
+        "isExternal": true
+      }
+    ],
+    "button": {
+      "text": "Contact",
+      "title": "Contact",
+      "href": "mailto:O2sEe@example.com"
+    }
+  },
+  "section-one": {
+    "text": {
+      "01": "Hello",
+      "02": "Future Home",
+      "03": "Owners"
+    },
+    "desc": "Searching for your new home? Looking for a mortgage? No matter where you’re at in the home buying journey, you’ve come to the right place.",
+    "button": {
+      "text": "Get Started",
+      "title": "Get Started",
+      "href": "example"
+    },
+    "img": {
+      "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715177456/hero/vepm9beny2izu3pla6bw.jpg",
+      "alt": " photo of a building",
+      "title": " photo of a building"
+    },
+    "captionImg": "Every home buying journey is unique."
+  },
+  "section-two": {
+    "text": "Start the search now.",
+    "img": {
+      "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715180133/geeccv1keakeinqoa8n3.jpg",
+      "alt": " photo of a building",
+      "title": "photo of a building"
+    },
+    "button": {
+      "text": "Contact",
+      "title": "Contact",
+      "href": "mailto:O2sEe@example.com"
+    }
+  },
+  "section-three": {
+    "title": "Every home buying journey is unique",
+    "subtitle": "Lorem ipsum",
+    "desc": "Searching for your new home? Looking for a mortgage? No matter where you’re at in the home buying journey, you’ve come to the right place."
+  },
+  "section-four": {
+    "title": "Services",
+    "subtitle": "Lorem ipsum",
+    "services": [
+      {
+        "id": "fa2c0b9e-fc2d-4ee5-b97b-57f1d6d38698",
+        "icon": {
+          "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715184578/services/tggj5tj65oryplk6l1no.svg",
+          "title": "svg menu icon"
+        },
+        "text": "Find and finance your home with us  with online"
+      },
+      {
+        "id": "889335b0-334f-4500-a44f-bc8390f4dea7",
+        "icon": {
+          "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715184578/services/x9ouewxalapbnsuapic4.svg",
+          "title": "svg icon build"
+        },
+        "text": "Find and finance your home with us  with online"
+      },
+      {
+        "id": "9da139f5-7850-4cf3-8ae7-6fb719df2cd6",
+        "icon": {
+          "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715184577/services/alvpqg5kbjeavcxaemjk.svg",
+          "title": "svg icon"
+        },
+        "text": "Find and finance your home with us  with online"
+      }
+    ]
+  },
+  "section-five": {
+    "title": "The most popular neightborhoods in Dubai",
+    "subtitle": "Lorem ipsum",
+    "items": [
+      {
+        "id": "e37bddd7-6db8-4344-8b7b-cf849d3fa7f3",
+        "title": "Zambia",
+        "desc": "26660 Asha Cliff",
+        "img": {
+          "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715185173/projects/k7ybacvfpptojboymqpu.jpg",
+          "title": "interior house"
+        }
+      },
+      {
+        "id": "5ebe5672-cc62-4e66-9f7b-72eee6ea8323",
+        "title": "Pakistan",
+        "desc": "7279 Leilani Trace",
+        "img": {
+          "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715185173/projects/xleua9agd7lbhgsjcftw.jpg",
+          "title": "interior house"
+        }
+      }
+    ]
+  },
+  "section-six": {
+    "title": "Flatter is property website that has been helping of pluto people to find their dream homes.",
+    "subtitle": "About Us",
+    "stats": [
+      {
+        "id": "45170b04-8b5a-4b95-81fd-21e27a49ad79",
+        "number": "90k+",
+        "desc": "Customers"
+      },
+      {
+        "id": "ad05fe05-50fd-4a5e-8ea6-3eae3b04f6b1",
+        "number": "45k+",
+        "desc": "Units Ready"
+      },
+      {
+        "id": "06a00d84-f21f-4aae-9905-b29e88eb3c39",
+        "number": "5k+",
+        "desc": "units Sold"
+      }
+    ],
+    "img": {
+      "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715185173/projects/k7ybacvfpptojboymqpu.jpg",
+      "title": "interior house"
+    }
+  },
+  "section-seven": {
+    "title": "Our service area",
+    "subtitle": "Find Us",
+    "img": {
+      "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715187415/qxkra3vov19nz7sdvwxj.png",
+      "title": "map image"
+    },
+    "items": [
+      {
+        "id": "b78db339-2300-4f1a-8488-73f9366b6088",
+        "text": "Sweden",
+        "desc": "1850 Hodkiewicz Lakes"
+      },
+      {
+        "id": "879f4d0f-1d20-43c6-a9ba-98777736d11d",
+        "text": "Madagascar",
+        "desc": "58344 Verla Spurs"
+      },
+      {
+        "id": "c97bcca2-0906-4817-9d17-4a29bfbe6222",
+        "text": "Zimbabwe",
+        "desc": "14687 Kane Rue"
+      }
+    ]
+  },
+  "section-eigth": {
+    "title": "Lorem ipsum",
+    "subtitle": "Testimonials",
+    "testimonials": [
+      {
+        "id": "e5ca286e-fcb1-435f-b765-53db88bffee8",
+        "comment": "“ Flatter guided us through all the process with a lot of patience and professionalism, answering all our questions and concerns. Together it felt so much easier “",
+        "user": {
+          "photo": {
+            "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715188659/d4ox5xsbwu3djmfjoufu.jpg",
+            "title": "user photo"
+          },
+          "name": "Linda Amalia",
+          "role": "Ciptura Group"
+        }
+      },
+      {
+        "id": "b6210ddf-9288-4be4-8b05-dc491ef513c3",
+        "comment": "“The process with a lot of patience and professionalism, answering all our questions and concerns. Together it felt so much easier “",
+        "user": {
+          "photo": {
+            "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715188659/d4ox5xsbwu3djmfjoufu.jpg",
+            "title": "user photo"
+          },
+          "name": "Linda Amalia",
+          "role": "Ciptura Group"
+        }
+      }
+    ]
+  },
+  "section-footer": {
+    "text": "Have something to talk about ?",
+    "button": {
+      "text": "Contact",
+      "title": "Contact",
+      "href": "mailto:O2sEe@example.com"
+    }
+  }
+}

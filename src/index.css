@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  @apply bg-custom-white min-h-screen text-custom-neutral;
+}
+
+.paragraph {
+  @apply text-[14px] leading-[1.5] text-custom-neutral/80 text-pretty;
+}
