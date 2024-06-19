@@ -1,8 +1,8 @@
 {
   "logo": {
-    "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715125333/udckoqmzwtjnd4kdrn5w.svg",
-    "title": "logo",
-    "alt": "logo"
+    "url": "/upreal-logo.png",
+    "title": "upreal digital logo png",
+    "alt": "upreal digital logo png"
   },
   "section-nav": {
     "menuLinks": [
@@ -51,29 +51,35 @@
   },
   "section-one": {
     "text": {
-      "01": "Hello",
-      "02": "Future Home",
-      "03": "Owners"
+      "01": "Welcome to",
+      "02": "Upreal",
+      "03": "Solutions."
     },
     "desc": "Searching for your new home? Looking for a mortgage? No matter where you’re at in the home buying journey, you’ve come to the right place.",
     "button": {
-      "text": "Get Started",
-      "title": "Get Started",
-      "href": "example"
+      "text": "More info",
+      "title": "More info",
+      "href": "exampleblog.com"
     },
     "img": {
-      "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715177456/hero/vepm9beny2izu3pla6bw.jpg",
+      "url": "/hero-img.jpg",
       "alt": " photo of a building",
       "title": " photo of a building"
     },
     "captionImg": "Every home buying journey is unique."
   },
   "section-two": {
-    "text": "Start the search now.",
+    "text": "Benefits of Cloud Computing Solutions",
+    "desc": [
+      "Cloud computing offers several benefits for businesses and organizations. Here are some key advantages: Flexibility and Scalability: Cloud computing solutions provide businesses with the flexibility to scale their resources up or down based on their needs. This scalability allows businesses to adapt quickly to changing demands and avoid the costs associated with maintaining excess infrastructure.",
+      "Cost Savings: Cloud computing eliminates the need for businesses to invest in expensive hardware and infrastructure. Instead, they can pay for the resources they use on a subscription or pay-as-you-go basis. This model can result in significant cost savings, especially for small and medium-sized businesses",
+      "Accessibility: Cloud computing solutions enable users to access their data and applications from anywhere with an internet connection. This accessibility promotes collaboration and allows for remote work, which has become increasingly important in today's globalized and digitalized business environment.",
+      "Reliability and Security: Cloud service providers often have robust security measures in place to protect data and applications. They also offer reliable backup and disaster recovery options, ensuring that businesses can quickly recover from any unforeseen events."
+    ],
     "img": {
-      "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715180133/geeccv1keakeinqoa8n3.jpg",
-      "alt": " photo of a building",
-      "title": "photo of a building"
+      "url": "/contact-img.jpg",
+      "alt": "benefits image",
+      "title": "benefits image"
     },
     "button": {
       "text": "Contact",
@@ -82,13 +88,18 @@
     }
   },
   "section-three": {
-    "title": "Every home buying journey is unique",
+    "title": "About Cloud Computing Solutions",
     "subtitle": "Lorem ipsum",
-    "desc": "Searching for your new home? Looking for a mortgage? No matter where you’re at in the home buying journey, you’ve come to the right place."
+    "desc": "Cloud computing has become increasingly popular among businesses in recent years. It is not just a passing trend in the IT world; there is a genuine need to transition from traditional software models to cloud-based solutions. Cloud Computing Solutions have gained significant momentum over the past decade, and the future looks promising. The next-generation cloud computing solutions are designed to enable collaboration from anywhere, including through mobile devices. One of the key advantages of cloud computing is that it allows business users and professionals to access software and applications from anywhere in the world. Many computer programs are hosted by third-party providers and reside in the cloud. This arrangement allows business owners to focus on their core activities without having to worry about managing and controlling the entire process. In other words, they can simply enjoy the results."
   },
   "section-four": {
     "title": "Services",
     "subtitle": "Lorem ipsum",
+    "images": [
+      { "id": 1, "url": "/services-1.jpg" },
+      { "id": 2, "url": "/services-2.jpg" },
+      { "id": 3, "url": "/services-3.jpg" }
+    ],
     "services": [
       {
         "id": "fa2c0b9e-fc2d-4ee5-b97b-57f1d6d38698",
@@ -122,19 +133,15 @@
     "items": [
       {
         "id": "e37bddd7-6db8-4344-8b7b-cf849d3fa7f3",
-        "title": "Zambia",
-        "desc": "26660 Asha Cliff",
+        "title": "Common Misconceptions about Cloud Computing",
+        "desc": [
+          "While cloud computing offers numerous benefits, there are also some misconceptions that need to be addressed. Here are a few common misconceptions:",
+          "Generalizations and Lack of Differentiation: Some people have a general perception that cloud computing is a one-size-fits-all solution. However, the reality is that each deployment is unique, and the level of security and other considerations may vary depending on the type of service being delivered.",
+          "Confusion about Definitions: The definition of cloud computing can be confusing for some. It is important to understand that cloud computing is not just about storing data or running applications on remote servers. It is a comprehensive business model that offers various services and benefits.",
+          "Dependency and Security Concerns: Cloud computing involves relying on third-party providers for hosting and managing data and applications. While this can be advantageous, it also introduces potential security risks and dependencies on external providers. It is crucial for businesses to carefully evaluate the security measures and reliability of their chosen cloud service providers."
+        ],
         "img": {
-          "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715185173/projects/k7ybacvfpptojboymqpu.jpg",
-          "title": "interior house"
-        }
-      },
-      {
-        "id": "5ebe5672-cc62-4e66-9f7b-72eee6ea8323",
-        "title": "Pakistan",
-        "desc": "7279 Leilani Trace",
-        "img": {
-          "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715185173/projects/xleua9agd7lbhgsjcftw.jpg",
+          "url": "/projects.png",
           "title": "interior house"
         }
       }
@@ -191,31 +198,19 @@
     ]
   },
   "section-eigth": {
-    "title": "Lorem ipsum",
-    "subtitle": "Testimonials",
+    "title": "Testimonial",
+    "subtitle": "from John, a fictional customer who used Upreal Solutions' services:",
     "testimonials": [
       {
         "id": "e5ca286e-fcb1-435f-b765-53db88bffee8",
-        "comment": "“ Flatter guided us through all the process with a lot of patience and professionalism, answering all our questions and concerns. Together it felt so much easier “",
+        "comment": "“I couldn't be more satisfied with the services provided by Upreal Solutions! Since deciding to migrate my business to the cloud, I have experienced a significant improvement in my operations. Thanks to their cloud computing solutions, I was able to eliminate unnecessary hardware and free up space in my systems.“",
         "user": {
           "photo": {
-            "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715188659/d4ox5xsbwu3djmfjoufu.jpg",
-            "title": "user photo"
+            "url": "/testimonial.jpg",
+            "title": "Jhon profile photo"
           },
-          "name": "Linda Amalia",
-          "role": "Ciptura Group"
-        }
-      },
-      {
-        "id": "b6210ddf-9288-4be4-8b05-dc491ef513c3",
-        "comment": "“The process with a lot of patience and professionalism, answering all our questions and concerns. Together it felt so much easier “",
-        "user": {
-          "photo": {
-            "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715188659/d4ox5xsbwu3djmfjoufu.jpg",
-            "title": "user photo"
-          },
-          "name": "Linda Amalia",
-          "role": "Ciptura Group"
+          "name": "John",
+          "role": "Fictional Customer "
         }
       }
     ]
