@@ -1,7 +1,7 @@
 const ProjectsItem = ({ title, desc, img }) => {
   return (
     <div className='border border-custom-neutral rounded-md p-2'>
-      <div className='w-full h-[900px] overflow-hidden  rounded-md hidden lg:block lg:relative group'>
+      <div className='w-full h-[700px] overflow-hidden  rounded-md hidden lg:block lg:relative group'>
         <div
           className='w-full h-full bg-cover bg-center lg:bg-left-bottom'
           style={{ backgroundImage: `url(${img.url})` }}
