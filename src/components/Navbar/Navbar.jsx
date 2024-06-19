@@ -8,7 +8,7 @@ import data from '../../data.json';
 const Navbar = () => {
   const { button } = data['section-nav'];
   return (
-    <div className='navbar bg-custom-neutral text-custom-white lg:rounded-lg max-w-[1440px] mx-auto'>
+    <div className='navbar bg-custom-neutral text-custom-white lg:rounded-lg max-w-[1440px] mx-auto px-2 lg:px-4'>
       <div className='navbar-start'>
         <div className='dropdown'>
           <Hamburguer />

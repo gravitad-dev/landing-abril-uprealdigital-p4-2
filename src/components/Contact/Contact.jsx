@@ -3,25 +3,28 @@ import CustomButton from '../ui/CustomButton';
 import Title from '../ui/Title';
 
 const Contact = () => {
-  const { text, img, button } = data['section-two'];
+  const { text, desc, img, button } = data['section-two'];
 
   return (
-    <section className='py-[150px] flex flex-col gap-5 md:flex-row md:justify-between'>
-      <h2 className='text-[40px] font-semibold text-center lg:text-end  lg:order-1'>
-        {text}
-      </h2>
+    <section className='py-[150px] flex flex-col gap-5'>
       <div
-        className='rounded-md bg-custom-neutral text-custom-white p-4
-      flex gap-4 items-center justify-around md:w-[50%] h-[150px]
+        className='rounded-md bg-custom-neutral text-custom-white p-5
+      flex flex-col gap-4 items-center justify-around
       '
       >
         <img
           src={img.url}
           alt={img.alt}
           title={img.title}
-          className='rounded-md w-[50%] object-cover h-full'
+          className='hidden md:block rounded-md object-cover w-full h-[350px]'
         />
-        <div className='w-[50%] grid place-content-center'>
+        <div className='grid place-items-center'>
+          <h2 className='text-[40px] font-semibold text-center'>{text}</h2>
+          <ul className='text-center flex flex-col gap-8 my-10'>
+            {desc.map((p) => (
+              <li className='mx-auto w-[90%]'>{p}</li>
+            ))}
+          </ul>
           <CustomButton variant='primary'>
             <a title={button.title} href={button.href}>
               {button.text}

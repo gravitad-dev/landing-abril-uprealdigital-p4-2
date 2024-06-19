@@ -17,7 +17,7 @@ const TestimonialItem = ({ comment, user, onNext, onPrev }) => {
             alt={user.title}
             title={user.title}
             className='
-          w-[64px] h-[64px] rounded-full
+          w-[64px] h-[64px] rounded-full object-cover
           '
           />
           {/* name and role */}
@@ -27,7 +27,7 @@ const TestimonialItem = ({ comment, user, onNext, onPrev }) => {
           </div>
         </div>
         {/* arrows */}
-        <div className='flex gap-4 '>
+        {/* <div className='flex gap-4 '>
           <button
             className='border border-custom-neutral rounded-full w-[50px]
            h-[50px] grid place-content-center hover:bg-custom-yellow transition-colors'
@@ -42,7 +42,7 @@ const TestimonialItem = ({ comment, user, onNext, onPrev }) => {
           >
             <FaArrowRight />
           </button>
-        </div>
+        </div> */}
       </div>
     </div>
   );
