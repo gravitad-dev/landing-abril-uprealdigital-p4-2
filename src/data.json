@@ -38,7 +38,7 @@
       },
       {
         "id": 5,
-        "href": "blogexample",
+        "href": "http://blog.uprealdigital.net/",
         "title": "Blog",
         "isExternal": true
       }
@@ -77,7 +77,7 @@
       "Reliability and Security: Cloud service providers often have robust security measures in place to protect data and applications. They also offer reliable backup and disaster recovery options, ensuring that businesses can quickly recover from any unforeseen events."
     ],
     "img": {
-      "url": "/contact-img.jpg",
+      "url": "/benefits-cloud.jpg",
       "alt": "benefits image",
       "title": "benefits image"
     },
@@ -141,8 +141,8 @@
           "Dependency and Security Concerns: Cloud computing involves relying on third-party providers for hosting and managing data and applications. While this can be advantageous, it also introduces potential security risks and dependencies on external providers. It is crucial for businesses to carefully evaluate the security measures and reliability of their chosen cloud service providers."
         ],
         "img": {
-          "url": "/projects.png",
-          "title": "interior house"
+          "url": "/cloud.jpg",
+          "title": "cloud computing image"
         }
       }
     ]
@@ -177,29 +177,24 @@
     "subtitle": "Find Us",
     "img": {
       "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715187415/qxkra3vov19nz7sdvwxj.png",
-      "title": "map image"
+      "title": "service area image"
     },
     "items": [
       {
         "id": "b78db339-2300-4f1a-8488-73f9366b6088",
-        "text": "Sweden",
-        "desc": "1850 Hodkiewicz Lakes"
+        "text": "España",
+        "desc": "Barcelona"
       },
       {
         "id": "879f4d0f-1d20-43c6-a9ba-98777736d11d",
-        "text": "Madagascar",
-        "desc": "58344 Verla Spurs"
-      },
-      {
-        "id": "c97bcca2-0906-4817-9d17-4a29bfbe6222",
-        "text": "Zimbabwe",
-        "desc": "14687 Kane Rue"
+        "text": "España ",
+        "desc": "Canarias"
       }
     ]
   },
   "section-eigth": {
-    "title": "Testimonial",
-    "subtitle": "from John, a fictional customer who used Upreal Solutions' services:",
+    "title": "from John, a fictional customer who used Upreal Solutions' services:",
+    "subtitle": "Testimonial",
     "testimonials": [
       {
         "id": "e5ca286e-fcb1-435f-b765-53db88bffee8",

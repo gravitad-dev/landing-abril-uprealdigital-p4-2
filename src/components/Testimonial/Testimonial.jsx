@@ -22,7 +22,9 @@ const Testimonial = () => {
 
   return (
     <section className='py-[100px]' id='testimonials'>
-      <Title title={title} subtitle={subtitle} />
+      <div className='max-w-[900px]'>
+        <Title title={title} subtitle={subtitle} />
+      </div>
       <div className=' mt-10'>
         <TestimonialItem
           key={item.id}

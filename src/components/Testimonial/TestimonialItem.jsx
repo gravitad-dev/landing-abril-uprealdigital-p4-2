@@ -4,7 +4,7 @@ const TestimonialItem = ({ comment, user, onNext, onPrev }) => {
   return (
     <div className=' grid'>
       <div className='h-[150px] grid place-items-center'>
-        <p className='text-center font-semibold text-[20px] lg:text-[30px] italic text-pretty'>
+        <p className='text-center font-semibold text-[20px] lg:text-[25px] italic text-pretty'>
           {comment}
         </p>
       </div>
