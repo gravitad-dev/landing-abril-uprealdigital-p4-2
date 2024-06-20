@@ -10,7 +10,7 @@ const Logo = () => {
         alt={logo.alt}
         title={logo.title}
         className='
-      w-[40px] md:w-[50px] rounded-md
+        w-[40px] md:w-[50px] rounded-lg
       '
       />
       {/* <span className='text-custom-white text-[30px] font-bold'>flatter</span> */}

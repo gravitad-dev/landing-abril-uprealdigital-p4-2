@@ -21,7 +21,6 @@ function App() {
         <Slogan />
         <Services />
         <Projects />
-        <About />
         <FindUs />
         <Testimonial />
       </Layout>
