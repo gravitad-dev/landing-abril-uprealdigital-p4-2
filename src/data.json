@@ -89,12 +89,12 @@
   },
   "section-three": {
     "title": "About Cloud Computing Solutions",
-    "subtitle": "Lorem ipsum",
+    "subtitle": "",
     "desc": "Cloud computing has become increasingly popular among businesses in recent years. It is not just a passing trend in the IT world; there is a genuine need to transition from traditional software models to cloud-based solutions. Cloud Computing Solutions have gained significant momentum over the past decade, and the future looks promising. The next-generation cloud computing solutions are designed to enable collaboration from anywhere, including through mobile devices. One of the key advantages of cloud computing is that it allows business users and professionals to access software and applications from anywhere in the world. Many computer programs are hosted by third-party providers and reside in the cloud. This arrangement allows business owners to focus on their core activities without having to worry about managing and controlling the entire process. In other words, they can simply enjoy the results."
   },
   "section-four": {
     "title": "Services",
-    "subtitle": "Lorem ipsum",
+    "subtitle": "",
     "images": [
       { "id": 1, "url": "/services-1.jpg" },
       { "id": 2, "url": "/services-2.jpg" },
@@ -129,7 +129,7 @@
   },
   "section-five": {
     "title": "The most popular neightborhoods in Dubai",
-    "subtitle": "Lorem ipsum",
+    "subtitle": "",
     "items": [
       {
         "id": "e37bddd7-6db8-4344-8b7b-cf849d3fa7f3",

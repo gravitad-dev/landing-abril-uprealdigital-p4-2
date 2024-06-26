@@ -1,7 +1,7 @@
 import data from '../../data.json';
 import CustomButton from '../ui/CustomButton';
 
-const smallClass = 'text-[16px] lg:text-[18px]';
+const smallClass = 'text-[40px] ';
 const spanClass = 'flex gap-4 items-center';
 
 const HeroContent = () => {
