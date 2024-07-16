@@ -1,23 +1,23 @@
-import Title from '../ui/Title';
+import Title from "../ui/Title";
 
-import data from '../../data.json';
-import ServicesItem from './ServicesItem';
+import data from "../../data.json";
+import ServicesItem from "./ServicesItem";
 
 const Services = () => {
-  const { services, images } = data['section-four'];
+  const { services, images } = data["section-four"];
   return (
-    <section className='py-[100px]' id='services'>
-      <Title title='Services' subtitle='' />
-      <div className='grid grid-cols-services gap-10 mt-10'>
+    <section className="py-[100px]" id="services">
+      <Title title="Servicios" subtitle="" />
+      <div className="grid grid-cols-services gap-10 mt-10">
         {/* {services.map((service) => (
           <ServicesItem key={service.id} {...service} />
         ))} */}
         {images.map((img) => (
           <img
             src={img.url}
-            alt='services image'
+            alt="services image"
             key={img.id}
-            className='w-full  mx-auto h-[400px] rounded-md lg:mx-0 object-cover'
+            className="w-full  mx-auto h-[400px] rounded-md lg:mx-0 object-cover"
           />
         ))}
       </div>

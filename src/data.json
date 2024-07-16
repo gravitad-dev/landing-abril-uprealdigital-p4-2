@@ -9,31 +9,31 @@
       {
         "id": 0,
         "href": "#home",
-        "title": "Home",
+        "title": "Principal",
         "isExternal": false
       },
       {
         "id": 1,
         "href": "#about-us",
-        "title": "About us",
+        "title": "Sobre Nosotros",
         "isExternal": false
       },
       {
         "id": 2,
         "href": "#projects",
-        "title": "Projects",
+        "title": "Proyectos",
         "isExternal": false
       },
       {
         "id": 3,
         "href": "#find-us",
-        "title": "Find Us",
+        "title": "Encuentranos",
         "isExternal": false
       },
       {
         "id": 4,
         "href": "#testimonials",
-        "title": "Testimonials",
+        "title": "Testimonios",
         "isExternal": false
       },
       {
@@ -44,21 +44,21 @@
       }
     ],
     "button": {
-      "text": "Contact",
+      "text": "Contacto",
       "title": "Contact",
       "href": "mailto:O2sEe@example.com"
     }
   },
   "section-one": {
     "text": {
-      "01": "Welcome to",
+      "01": "Bienvenido a",
       "02": "Upreal",
-      "03": "Solutions."
+      "03": "Soluciones."
     },
-    "desc": "Searching for your new home? Looking for a mortgage? No matter where you’re at in the home buying journey, you’ve come to the right place.",
+    "desc": "¿Buscando su nueva casa? ¿Buscas una hipoteca? No importa dónde estés en el viaje de compra de casa, has llegado al lugar correcto.",
     "button": {
-      "text": "More info",
-      "title": "More info",
+      "text": "Más Info",
+      "title": "Más Info",
       "href": "exampleblog.com"
     },
     "img": {
@@ -69,12 +69,12 @@
     "captionImg": "Every home buying journey is unique."
   },
   "section-two": {
-    "text": "Benefits of Cloud Computing Solutions",
+    "text": "Ventajas de las Soluciones de Computación en la nube",
     "desc": [
-      "Cloud computing offers several benefits for businesses and organizations. Here are some key advantages: Flexibility and Scalability: Cloud computing solutions provide businesses with the flexibility to scale their resources up or down based on their needs. This scalability allows businesses to adapt quickly to changing demands and avoid the costs associated with maintaining excess infrastructure.",
-      "Cost Savings: Cloud computing eliminates the need for businesses to invest in expensive hardware and infrastructure. Instead, they can pay for the resources they use on a subscription or pay-as-you-go basis. This model can result in significant cost savings, especially for small and medium-sized businesses",
-      "Accessibility: Cloud computing solutions enable users to access their data and applications from anywhere with an internet connection. This accessibility promotes collaboration and allows for remote work, which has become increasingly important in today's globalized and digitalized business environment.",
-      "Reliability and Security: Cloud service providers often have robust security measures in place to protect data and applications. They also offer reliable backup and disaster recovery options, ensuring that businesses can quickly recover from any unforeseen events."
+      "La computación en la nube ofrece varios beneficios para las empresas y las organizaciones. Aquí hay algunas ventajas clave: Flexibilidad y escalabilidad: Las soluciones de computación en la nube proporcionan a las empresas la flexibilidad para escalar sus recursos en función de sus necesidades. Esta escalabilidad permite a las empresas adaptarse rápidamente a las exigencias cambiantes y evitar los costos asociados con el mantenimiento de la infraestructura excesiva.",
+      "Ahorro de costos: La computación en la nube elimina la necesidad de que las empresas inviertan en hardware y infraestructura caros. En su lugar, pueden pagar por los recursos que utilizan en una base de suscripción o pay-as-you-go. Este modelo puede resultar en importantes ahorros de costos, especialmente para las pequeñas y medianas empresas.",
+      "Accesibilidad: Las soluciones de computación en la nube permiten a los usuarios acceder a sus datos y aplicaciones desde cualquier lugar con una conexión a Internet. Esta accesibilidad promueve la colaboración y permite el trabajo remoto, que se ha vuelto cada vez más importante en el entorno empresarial globalizado y digitalizado de hoy.",
+      "Fiabilidad y Seguridad: Los proveedores de servicios en la nube a menudo tienen medidas de seguridad robustas para proteger los datos y las aplicaciones. También ofrecen opciones fiables de respaldo y recuperación de desastres, asegurando que las empresas puedan recuperarse rápidamente de cualquier evento imprevisto."
     ],
     "img": {
       "url": "/benefits-cloud.jpg",
@@ -82,18 +82,18 @@
       "title": "benefits image"
     },
     "button": {
-      "text": "Contact",
+      "text": "Contacto",
       "title": "Contact",
       "href": "mailto:O2sEe@example.com"
     }
   },
   "section-three": {
-    "title": "About Cloud Computing Solutions",
+    "title": "Soluciones de computación en la nube",
     "subtitle": "",
-    "desc": "Cloud computing has become increasingly popular among businesses in recent years. It is not just a passing trend in the IT world; there is a genuine need to transition from traditional software models to cloud-based solutions. Cloud Computing Solutions have gained significant momentum over the past decade, and the future looks promising. The next-generation cloud computing solutions are designed to enable collaboration from anywhere, including through mobile devices. One of the key advantages of cloud computing is that it allows business users and professionals to access software and applications from anywhere in the world. Many computer programs are hosted by third-party providers and reside in the cloud. This arrangement allows business owners to focus on their core activities without having to worry about managing and controlling the entire process. In other words, they can simply enjoy the results."
+    "desc": "La computación en la nube se ha vuelto cada vez más popular entre las empresas en los últimos años. No es sólo una tendencia pasajera en el mundo de la TI; hay una verdadera necesidad de pasar de los modelos de software tradicionales a las soluciones basadas en la nube. Las soluciones de computación en la nube han ganado un impulso significativo en la última década, y el futuro parece prometedor. Las soluciones de computación en la nube de próxima generación están diseñadas para permitir la colaboración desde cualquier lugar, incluso a través de dispositivos móviles. Una de las principales ventajas de la computación en la nube es que permite a los usuarios empresariales y profesionales acceder a software y aplicaciones desde cualquier lugar del mundo. Muchos programas de ordenador son alojados por proveedores de terceros y residen en la nube. Este arreglo permite a los propietarios de empresas centrarse en sus actividades básicas sin tener que preocuparse por gestionar y controlar todo el proceso. En otras palabras, pueden simplemente disfrutar de los resultados."
   },
   "section-four": {
-    "title": "Services",
+    "title": "Servicios",
     "subtitle": "",
     "images": [
       { "id": 1, "url": "/services-1.jpg" },
@@ -173,8 +173,8 @@
     }
   },
   "section-seven": {
-    "title": "Our service area",
-    "subtitle": "Find Us",
+    "title": "Nuestra Área de Servicio",
+    "subtitle": "Encuentranos",
     "img": {
       "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715187415/qxkra3vov19nz7sdvwxj.png",
       "title": "service area image"
@@ -193,12 +193,12 @@
     ]
   },
   "section-eigth": {
-    "title": "from John, a fictional customer who used Upreal Solutions' services:",
-    "subtitle": "Testimonial",
+    "title": "de John, un cliente ficticio que utilizó los servicios de Upreal Solutions:",
+    "subtitle": "Testimonio",
     "testimonials": [
       {
         "id": "e5ca286e-fcb1-435f-b765-53db88bffee8",
-        "comment": "“I couldn't be more satisfied with the services provided by Upreal Solutions! Since deciding to migrate my business to the cloud, I have experienced a significant improvement in my operations. Thanks to their cloud computing solutions, I was able to eliminate unnecessary hardware and free up space in my systems.“",
+        "comment": "“¡No podría estar más satisfecho con los servicios prestados por Ureal Solutions! Desde que decidí migrar mi negocio a la nube, he experimentado una mejora significativa en mis operaciones. Gracias a sus soluciones de computación en la nube, pude eliminar el hardware innecesario y liberar espacio en mis sistemas.”",
         "user": {
           "photo": {
             "url": "/testimonial.jpg",
@@ -211,10 +211,10 @@
     ]
   },
   "section-footer": {
-    "text": "Have something to talk about ?",
+    "text": "¿Tienes algo de que hablar?",
     "button": {
-      "text": "Contact",
-      "title": "Contact",
+      "text": "Contacto",
+      "title": "Contacto",
       "href": "mailto:O2sEe@example.com"
     }
   }
