@@ -27,7 +27,7 @@
       {
         "id": 3,
         "href": "#find-us",
-        "title": "Encuentranos",
+        "title": "Encuéntranos",
         "isExternal": false
       },
       {
@@ -46,7 +46,8 @@
     "button": {
       "text": "Contacto",
       "title": "Contact",
-      "href": "mailto:O2sEe@example.com"
+      "href": "https://blog.uprealdigital.net/contacto/",
+      "isExternal": true
     }
   },
   "section-one": {
@@ -59,7 +60,7 @@
     "button": {
       "text": "Más Info",
       "title": "Más Info",
-      "href": "exampleblog.com"
+      "href": "https://blog.uprealdigital.net/contacto/"
     },
     "img": {
       "url": "/hero-img.jpg",
@@ -84,7 +85,8 @@
     "button": {
       "text": "Contacto",
       "title": "Contact",
-      "href": "mailto:O2sEe@example.com"
+      "href": "https://blog.uprealdigital.net/contacto/",
+      "isExternal": true
     }
   },
   "section-three": {
@@ -174,7 +176,7 @@
   },
   "section-seven": {
     "title": "Nuestra Área de Servicio",
-    "subtitle": "Encuentranos",
+    "subtitle": "Encuéntranos",
     "img": {
       "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715187415/qxkra3vov19nz7sdvwxj.png",
       "title": "service area image"
@@ -215,7 +217,8 @@
     "button": {
       "text": "Contacto",
       "title": "Contacto",
-      "href": "mailto:O2sEe@example.com"
+      "href": "https://blog.uprealdigital.net/contacto/",
+      "isExternal": true
     }
   }
 }
