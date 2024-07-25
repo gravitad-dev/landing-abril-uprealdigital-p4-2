@@ -1,11 +1,11 @@
-import CustomButton from '../ui/CustomButton';
-import CustomLink from '../ui/CustomLink';
+import CustomButton from "../ui/CustomButton";
+import CustomLink from "../ui/CustomLink";
 
-import data from '../../data.json';
-import SocialButtons from '../Socials';
+import data from "../../data.json";
+import SocialButtons from "../Socials";
 const Footer = () => {
-  const { text, button } = data['section-footer'];
-  const { menuLinks } = data['section-nav'];
+  const { text, button } = data["section-footer"];
+  const { menuLinks } = data["section-nav"];
   return (
     <footer
       className="footer footer-center p-10 bg-custom-neutral text-custom-white rounded
@@ -30,7 +30,7 @@ const Footer = () => {
         <SocialButtons />
       </div>
       <aside>
-        <p>Copyright © 2024 - All right reserved by ACME Industries Ltd</p>
+        <p>Copyright © 2024 - Todos los derechos reservados</p>
       </aside>
     </footer>
   );

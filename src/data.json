@@ -12,12 +12,7 @@
         "title": "Principal",
         "isExternal": false
       },
-      {
-        "id": 1,
-        "href": "#about-us",
-        "title": "Sobre Nosotros",
-        "isExternal": false
-      },
+
       {
         "id": 2,
         "href": "#projects",
@@ -178,7 +173,7 @@
     "title": "Nuestra Área de Servicio",
     "subtitle": "Encuéntranos",
     "img": {
-      "url": "https://res.cloudinary.com/dmvapufdh/image/upload/v1715187415/qxkra3vov19nz7sdvwxj.png",
+      "url": "/map.png",
       "title": "service area image"
     },
     "items": [
